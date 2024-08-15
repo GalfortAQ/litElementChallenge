@@ -13,7 +13,7 @@ To get started:
 1. Start the server with the command:
 
     ```bash
-    json-server -w db/pokemon.json -p 3002
+    npm run server
     ```
 
 2. Run the app by executing:

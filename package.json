@@ -9,7 +9,8 @@
     "lint": "eslint --ext .js,.html . --ignore-path .gitignore && prettier \"**/*.js\" --check --ignore-path .gitignore",
     "format": "eslint --ext .js,.html . --fix --ignore-path .gitignore && prettier \"**/*.js\" --write --ignore-path .gitignore",
     "analyze": "cem analyze --litelement",
-    "start": "web-dev-server"
+    "start": "web-dev-server",
+    "server": "json-server -w db/pokemon.json -p 3002"
   },
   "dependencies": {
     "@vaadin/router": "^1.7.5",

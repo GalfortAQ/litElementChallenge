@@ -1,0 +1,213 @@
+{
+  "pokemon": [
+    {
+      "id": "1",
+      "name": "Bulbasaur",
+      "type": "Grass/Poison",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/001.png",
+      "evolutions": [
+        {
+          "name": "Ivysaur",
+          "type": "Grass/Poison",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png"
+        },
+        {
+          "name": "Venusaur",
+          "type": "Grass/Poison",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/003.png"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Charmander",
+      "type": "Fire",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/004.png",
+      "evolutions": [
+        {
+          "name": "Charmeleon",
+          "type": "Fire",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/005.png"
+        },
+        {
+          "name": "Charizard",
+          "type": "Fire/Flying",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Squirtle",
+      "type": "Water",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/007.png",
+      "evolutions": [
+        {
+          "name": "Wartortle",
+          "type": "Water",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/008.png"
+        },
+        {
+          "name": "Blastoise",
+          "type": "Water",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/009.png"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Pikachu",
+      "type": "Electric",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+      "evolutions": [
+        {
+          "name": "Raichu",
+          "type": "Electric",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/026.png"
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Jigglypuff",
+      "type": "Normal/Fairy",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/039.png",
+      "evolutions": [
+        {
+          "name": "Wigglytuff",
+          "type": "Normal/Fairy",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/040.png"
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Gengar",
+      "type": "Ghost/Poison",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/094.png",
+      "evolutions": []
+    },
+    {
+      "id": "7",
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png"
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Vulpix",
+      "type": "Fire",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/037.png",
+      "evolutions": [
+        {
+          "name": "Ninetales",
+          "type": "Fire",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/038.png"
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Geodude",
+      "type": "Rock/Ground",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/074.png",
+      "evolutions": [
+        {
+          "name": "Graveler",
+          "type": "Rock/Ground",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/075.png"
+        },
+        {
+          "name": "Golem",
+          "type": "Rock/Ground",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/076.png"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Abra",
+      "type": "Psychic",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/063.png",
+      "evolutions": [
+        {
+          "name": "Kadabra",
+          "type": "Psychic",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/064.png"
+        },
+        {
+          "name": "Alakazam",
+          "type": "Psychic",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/065.png"
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Machop",
+      "type": "Fighting",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/066.png",
+      "evolutions": [
+        {
+          "name": "Machoke",
+          "type": "Fighting",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/067.png"
+        },
+        {
+          "name": "Machamp",
+          "type": "Fighting",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/068.png"
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Ditto",
+      "type": "Normal",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/132.png",
+      "evolutions": []
+    },
+    {
+      "id": "13",
+      "name": "Eevee",
+      "type": "Normal",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png",
+      "evolutions": [
+        {
+          "name": "Vaporeon",
+          "type": "Water",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png"
+        },
+        {
+          "name": "Jolteon",
+          "type": "Electric",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png"
+        },
+        {
+          "name": "Flareon",
+          "type": "Fire",
+          "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png"
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Snorlax",
+      "type": "Normal",
+      "image": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/143.png",
+      "evolutions": []
+    }
+  ]
+}
